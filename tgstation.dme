@@ -8725,6 +8725,7 @@
 #include "modular_zubbers\code\game\Items\sec_hailer.dm"
 #include "modular_zubbers\code\game\Items\storage\backpack.dm"
 #include "modular_zubbers\code\game\Items\storage\medkit.dm"
+#include "modular_zubbers\code\game\Items\weapons\pocket_pistol.dm"
 #include "modular_zubbers\code\game\machinery\crew_monitor.dm"
 #include "modular_zubbers\code\game\machinery\department_balance.dm"
 #include "modular_zubbers\code\game\machinery\medipen_refiller.dm"

@@ -113,7 +113,9 @@
 		/obj/item/match,
 		/obj/item/holochip,
 		/obj/item/toy/crayon,
+		/obj/item/gun/ballistic/pocket_pistol, // BUBBER EDIT ADDITION
 		/obj/item/reagent_containers/cup/glass/flask),
+
 		list(/obj/item/screwdriver/power,
 		/obj/item/ammo_casing/rocket,
 		/obj/item/cigarette/pipe,
